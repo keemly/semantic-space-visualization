@@ -1,0 +1,12 @@
+datasets
+sentence-transformers
+umap-learn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+networkx
+torch
+scipy
